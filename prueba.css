@@ -1,0 +1,26 @@
+img{
+    width: 10%;
+    display: block;
+    margin: auto;
+}
+.header {
+    padding-bottom: 1%;
+    padding-top: 5%;
+}
+#phone{
+    width: 50%;
+}
+.row{
+padding-top: 2%;
+}
+
+#botones {
+    display: flex;
+    padding-top: 40px;
+}
+.tienda {
+    width: 30%;
+}
+h1{
+    font-size: 30px;
+}
